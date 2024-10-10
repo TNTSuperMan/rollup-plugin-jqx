@@ -1,0 +1,14 @@
+{
+  "name": "rollup-plugin-jqx",
+  "version": "1.0.0",
+  "description": "JQX single component support",
+  "main": "./src/entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TNTSuperMan",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  }
+}
